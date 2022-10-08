@@ -1,6 +1,6 @@
-// AVL tree implementation in Java
+// AVL tree implementation in Java.
 
-// Create node
+// Creating node
 class Node {
   int item, height;
   Node left, right;
